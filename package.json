@@ -1,0 +1,26 @@
+{
+  "name": "notion-landing-clone",
+  "version": "1.0.0",
+  "description": "A simple clone of the notion landing page.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Obtez/notion-landing-clone.git"
+  },
+  "keywords": [
+    "notion",
+    "landing-page",
+    "html5",
+    "css",
+    "typescript"
+  ],
+  "author": "David Beer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Obtez/notion-landing-clone/issues"
+  },
+  "homepage": "https://github.com/Obtez/notion-landing-clone#readme"
+}
