@@ -1,1 +1,1 @@
-# Notion Landingpage Clone
+# Notion Landing Page Clone
